@@ -6,7 +6,12 @@
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Leute");
+        }
+
+        public void SayHello()
+        {
+            Console.WriteLine("Hello");
         }
 
         public static int ForceQuit() => (1 / ZERO);
