@@ -8,5 +8,11 @@ namespace OCE20261118
         {
             Console.WriteLine("Goodybe, World :(");
         }
+
+        static void TerminateProject(int error)
+        {
+            Environment.Exit(0);
+
+        }
     }
 }
