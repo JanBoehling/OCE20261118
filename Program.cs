@@ -14,6 +14,6 @@
             Console.WriteLine("Hello");
         }
 
-        public static int ForceQuit() => (1 / ZERO);
+       
     }
 }
